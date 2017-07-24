@@ -50,6 +50,9 @@
 		width: 100%;
 		min-width: 300px;
 	}
+	.works__main-content__elem:nth-child(5) {
+		order: 6;
+	}
 	.arrow img {
 		width: 15%;
 	}
